@@ -6,8 +6,7 @@ Due Date: March 30th at 11:59pm
 ![Image](http://i.imgur.com/cwbdkVe.gif)
 
 ## What I have
-
-
+![Image](https://github.com/sammanthp007/Tinder/blob/master/walkthrough.gif)
 
 ## Resources
 - [Vimeo Link for View Controller
