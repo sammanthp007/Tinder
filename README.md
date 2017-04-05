@@ -1,6 +1,18 @@
 # Tinder
 Due Date: March 30th at 11:59pm
+
+## What is expected
+
 ![Image](http://i.imgur.com/cwbdkVe.gif)
+
+## What I have
+
+
+
+## Resources
+- [Vimeo Link for View Controller
+  Transition](https://vimeo.com/158866732/4d549c4e91)
+- [Vimeo for Custom Views](https://vimeo.com/158866707/0c61ceee88)
 
 ## Assets
 You can download the Tinder assets
